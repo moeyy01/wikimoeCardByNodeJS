@@ -50,5 +50,5 @@ Thumbs.db
 
 /server/log/access/*.gz
 /server/log/application/*.gz
-server/config/default.js
-server/config/config.json
+/server/config/*.js
+/server/config/*.json
